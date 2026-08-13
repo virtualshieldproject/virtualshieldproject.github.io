@@ -1,9 +1,9 @@
 const cacheName = "Virtual Shield Team-Virtual Shield Project-0.1.0";
 const contentToCache = [
-    "Build/virtualshieldproject.github.io.loader.js",
-    "Build/virtualshieldproject.github.io.framework.js.unityweb",
-    "Build/virtualshieldproject.github.io.data.unityweb",
-    "Build/virtualshieldproject.github.io.wasm.unityweb",
+    "Build/v2.loader.js",
+    "Build/v2.framework.js.unityweb",
+    "Build/v2.data.unityweb",
+    "Build/v2.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
